@@ -23,7 +23,7 @@ export default {
 <template>
   <div class="container">
     <img src="./assets/logo.svg" width="125" alt="Logo Vue" />
-    <small><h1>Hola Mundo desde Vue js 3</h1></small>
+    <small><h1>App Contador Vue js 3</h1></small>
     <hr />
 
     <h2>Contador: {{ contador }}</h2>
